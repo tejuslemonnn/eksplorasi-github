@@ -1,0 +1,4 @@
+# Commit dan Push konfigurasi CI
+git add .
+git commit -m "ci: menambahkan github actions pipeline (Closes #2)"
+git push
